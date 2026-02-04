@@ -9,3 +9,102 @@ Variables & Data Types
 8. Check if a variable is undefined.
 9. Declare a constant and try to reassign it.
 10.Find the length of a string.
+Operators & Conditions
+11.Check if a number is positive or negative.
+12.Check if a number is even or odd.
+13.Compare two numbers and print the larger one.
+14.Check if two values are equal using ==.
+15.Check if two values are equal using ===.
+16.Check if a number is divisible by 5.
+17.Check if a number is divisible by both 3 and 5.
+18.Find the largest of three numbers.
+19.Check if a year is a leap year.
+20.Check if a number is between 10 and 50
+Loops
+21.Print numbers from 1 to 10.
+22.Print even numbers from 1 to 20.
+23.Print odd numbers from 1 to 20.
+24.Print the multiplication table of 5.
+25.Find the sum of numbers from 1 to 100.
+26.Find the factorial of a number.
+27.Reverse a number using a loop.
+28.Count digits of a number.
+29.Print Fibonacci series up to n terms.
+30.Find the power of a number using a loop.
+Functions
+31.Create a function to add two numbers.
+32.Create a function to subtract two numbers.
+33.Create a function to check if a number is even.
+34.Create a function to find the square of a number.
+35.Create a function to convert Celsius to Fahrenheit.
+36.Create a function to convert Fahrenheit to Celsius.
+37.Create a function to find the maximum of two numbers.
+38.Create a function to find the minimum of two numbers.
+39.Create a function to check if a number is prime.
+40.Create a function to reverse a string.
+Arrays
+41.Create an array of numbers.
+42.Find the length of an array.
+43.Access the first element of an array.
+44.Access the last element of an array.
+45.Add an element to the end of an array.
+46.Remove the last element of an array.
+47.Add an element at the beginning of an array.
+48.Remove the first element of an array.
+49.Find the sum of array elements.
+50.Find the maximum number in an array.
+Array Methods
+51.Sort an array of numbers.
+52.Reverse an array.
+53.Check if an element exists in an array.
+54.Find the index of an element.
+55.Merge two arrays.
+56.Remove duplicate elements from an array.
+57.Filter even numbers from an array.
+58.Map array elements to their squares.
+59.Find numbers greater than 10 using filter().
+60.Find the sum using reduce().
+Strings
+61.Reverse a string.
+62.Check if a string is a palindrome.
+63.Convert a string to uppercase.
+64.Convert a string to lowercase.
+65.Count vowels in a string.
+66.Count consonants in a string.
+67.Find the number of words in a string.
+68.Replace a word in a string.
+69.Check if a string contains another string.
+70.Remove spaces from a string.
+Objects
+71.Create an object with name, age, and city.
+72.Access object properties.
+73.Update object properties.
+74.Add a new property to an object.
+75.Delete a property from an object.
+76.Loop through object properties.
+77.Count number of properties in an object.
+78.Check if a property exists in an object.
+79.Convert object to an array.
+80.Convert array to an object.
+DOM & Events (Basic)
+81.Change text of a paragraph using JavaScript.
+82.Change background color of a div.
+83.Get value from an input field.
+84.Display input value on button click.
+85.Hide an element using JavaScript.
+86.Show a hidden element.
+87.Add a click event listener to a button.
+88.Change image source on button click.
+89.Add a class to an element.
+90.Remove a class from an element.
+Miscellaneous
+91.Get current date and time.
+92.Generate a random number.
+93.Generate a random number between 1 and 100.
+94.Use setTimeout() to print a message.
+95.Use setInterval() to print numbers.
+96.Check if a variable is an array.
+97.Clone an array.
+98.Clone an object.
+99.Handle a simple try...catch error.
+100. Print “Hello World” in the console.

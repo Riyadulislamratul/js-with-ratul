@@ -6,3 +6,5 @@ let myString = "I'm Riyadul Islam Ratul"
 let myBoolean = false
 // 4. Check the data type of a variable.
 console.log(myBoolean)
+// 9. Declare a constant and try to reassign it.
+const myConstant = 3.1416
