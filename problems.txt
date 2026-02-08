@@ -1,18 +1,18 @@
 Variables & Data Types
-1. Declare a variable and assign a number.
-2. Declare a variable and assign a string.
-3. Declare a variable and assign a boolean.
-4. Check the data type of a variable.
+1. Declare a variable and assign a number. ✅
+2. Declare a variable and assign a string. ✅
+3. Declare a variable and assign a boolean. ✅
+4. Check the data type of a variable. ✅
 5. Convert a string to a number.
 6. Convert a number to a string.
 7. Swap two variables.
-8. Check if a variable is undefined.
+8. Check if a variable is undefined. ✅
 9. Declare a constant and try to reassign it.
 10.Find the length of a string.
 Operators & Conditions
-11.Check if a number is positive or negative.
+11.Check if a number is positive or negative. ✅
 12.Check if a number is even or odd.
-13.Compare two numbers and print the larger one.
+13.Compare two numbers and print the larger one. ✅
 14.Check if two values are equal using ==.
 15.Check if two values are equal using ===.
 16.Check if a number is divisible by 5.
