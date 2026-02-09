@@ -42,3 +42,9 @@ if (value1 == value2) {
     console.log("Values are Equal");
 } else {    console.log("Values are Not Equal");
 }
+
+// 15.Check if two values are equal using ===.
+if (value1 === value2) {
+    console.log("Values are Strictly Equal");
+} else {    console.log("Values are Not Strictly Equal");
+}
