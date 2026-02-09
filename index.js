@@ -35,3 +35,10 @@
 //     console.log("Number two is Largest")
 // }
 
+// 14.Check if two values are equal using ==.
+const value1 = 5;
+const value2 = "5";
+if (value1 == value2) {
+    console.log("Values are Equal");
+} else {    console.log("Values are Not Equal");
+}
