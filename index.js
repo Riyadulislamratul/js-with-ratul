@@ -48,3 +48,9 @@ if (value1 === value2) {
     console.log("Values are Strictly Equal");
 } else {    console.log("Values are Not Strictly Equal");
 }
+
+// Loops
+// 21.Print numbers from 1 to 10.
+ for (let i = 1; i <= 10; i++) {
+    console.log(i)
+}

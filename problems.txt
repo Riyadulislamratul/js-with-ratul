@@ -13,8 +13,8 @@ Operators & Conditions
 11.Check if a number is positive or negative. ✅
 12.Check if a number is even or odd.
 13.Compare two numbers and print the larger one. ✅
-14.Check if two values are equal using ==.
-15.Check if two values are equal using ===.
+14.Check if two values are equal using ==. ✅
+15.Check if two values are equal using ===. ✅
 16.Check if a number is divisible by 5.
 17.Check if a number is divisible by both 3 and 5.
 18.Find the largest of three numbers.
