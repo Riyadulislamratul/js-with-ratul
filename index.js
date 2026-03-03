@@ -51,6 +51,20 @@ if (value1 === value2) {
 
 // Loops
 // 21.Print numbers from 1 to 10.
- for (let i = 1; i <= 10; i++) {
-    console.log(i)
-}
+//  for (let i = 1; i <= 10; i++) {
+//     console.log(i)
+// }
+
+// 22.Print even numbers from 1 to 20.
+// for (let i = 1; i <= 20; i++) {
+//     if (i % 2 === 0) {
+//         console.log(i)
+//     }}
+
+
+
+// 23.Print odd numbers from 1 to 20.
+for (let i = 1; i <= 20; i++) {
+    if (i % 2 !== 0) {
+        console.log(i)
+    }}

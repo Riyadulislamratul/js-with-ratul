@@ -21,9 +21,9 @@ Operators & Conditions
 19.Check if a year is a leap year.
 20.Check if a number is between 10 and 50
 Loops
-21.Print numbers from 1 to 10.
+21.Print numbers from 1 to 10. ✅
 22.Print even numbers from 1 to 20.
-23.Print odd numbers from 1 to 20.
+23.Print odd numbers from 1 to 20. 
 24.Print the multiplication table of 5.
 25.Find the sum of numbers from 1 to 100.
 26.Find the factorial of a number.
