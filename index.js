@@ -64,7 +64,12 @@ if (value1 === value2) {
 
 
 // 23.Print odd numbers from 1 to 20.
-for (let i = 1; i <= 20; i++) {
-    if (i % 2 !== 0) {
-        console.log(i)
-    }}
+// for (let i = 1; i <= 20; i++) {
+//     if (i % 2 !== 0) {
+//         console.log(i)
+//     }}
+
+// 24.Print the multiplication table of 5.
+for (let i = 1; i <= 10; i++) {
+    console.log(`5 x ${i} = ${5 * i}`)
+}
