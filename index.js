@@ -70,6 +70,13 @@ if (value1 === value2) {
 //     }}
 
 // 24.Print the multiplication table of 5.
-for (let i = 1; i <= 10; i++) {
-    console.log(`5 x ${i} = ${5 * i}`)
-}
+// for (let i = 1; i <= 10; i++) {
+//     console.log(`5 x ${i} = ${5 * i}`)
+// }
+
+// 25.Find the sum of numbers from 1 to 100.
+// let sum = 0
+// for (let i = 1; i <= 100; i++) {
+//     sum += i
+// }
+// console.log(`The sum of numbers from 1 to 100 is: ${sum}`)
