@@ -80,3 +80,14 @@ if (value1 === value2) {
 //     sum += i
 // }
 // console.log(`The sum of numbers from 1 to 100 is: ${sum}`)
+
+
+// 27.Reverse a number using a loop.
+let number = 12345;
+let reversedNumber = 0;
+while (number > 0) {
+    let digit = number % 10;
+    reversedNumber = reversedNumber * 10 + digit;
+    number = Math.floor(number / 10);
+}
+console.log(`Reversed Number: ${reversedNumber}`);
