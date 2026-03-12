@@ -14,6 +14,11 @@
 // console.log(myBoolean)
 
 
+// 5. Convert a string to a number.
+let str = "123";
+let num = Number(str);
+console.log(num)
+
 // 9. Declare a constant and try to reassign it.
 // const myConstant = 3.1416
 
@@ -36,18 +41,18 @@
 // }
 
 // 14.Check if two values are equal using ==.
-const value1 = 5;
-const value2 = "5";
-if (value1 == value2) {
-    console.log("Values are Equal");
-} else {    console.log("Values are Not Equal");
-}
+// const value1 = 5;
+// const value2 = "5";
+// if (value1 == value2) {
+//     console.log("Values are Equal");
+// } else {    console.log("Values are Not Equal");
+// }
 
-// 15.Check if two values are equal using ===.
-if (value1 === value2) {
-    console.log("Values are Strictly Equal");
-} else {    console.log("Values are Not Strictly Equal");
-}
+// // 15.Check if two values are equal using ===.
+// if (value1 === value2) {
+//     console.log("Values are Strictly Equal");
+// } else {    console.log("Values are Not Strictly Equal");
+// }
 
 // Loops
 // 21.Print numbers from 1 to 10.
@@ -94,13 +99,13 @@ if (value1 === value2) {
 
 
 // 29.Print Fibonacci series up to n terms.
-let n = 10;
-let a = 0, b = 1, nextTerm;
-console.log("Fibonacci Series:");
+// let n = 10;
+// let a = 0, b = 1, nextTerm;
+// console.log("Fibonacci Series:");
 
-for (let i = 1; i <= n; i++) {
-    console.log(a);
-    nextTerm = a + b;
-    a = b;
-    b = nextTerm;
-}
+// for (let i = 1; i <= n; i++) {
+//     console.log(a);
+//     nextTerm = a + b;
+//     a = b;
+//     b = nextTerm;
+// }
