@@ -15,9 +15,14 @@
 
 
 // 5. Convert a string to a number.
-let str = "123";
-let num = Number(str);
-console.log(num)
+// let str = "123";
+// let num = Number(str);
+// console.log(num)
+
+// 6. Convert a number to a string.
+let num = 456;
+let str = String(num);
+console.log(str)
 
 // 9. Declare a constant and try to reassign it.
 // const myConstant = 3.1416
