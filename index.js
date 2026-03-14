@@ -20,9 +20,17 @@
 // console.log(num)
 
 // 6. Convert a number to a string.
-let num = 456;
-let str = String(num);
-console.log(str)
+// let num = 456;
+// let str = String(num);
+// console.log(str)
+
+// 7. Swap two variables.
+let a = 5;
+let b = 10;
+let temp = a;
+a = b;
+b = temp;
+console.log(`After swapping: a = ${a}, b = ${b}`)
 
 // 9. Declare a constant and try to reassign it.
 // const myConstant = 3.1416
