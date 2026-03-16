@@ -25,12 +25,21 @@
 // console.log(str)
 
 // 7. Swap two variables.
-let a = 5;
-let b = 10;
-let temp = a;
-a = b;
-b = temp;
-console.log(`After swapping: a = ${a}, b = ${b}`)
+// let a = 5;
+// let b = 10;
+// let temp = a;
+// a = b;
+// b = temp;
+// console.log(`After swapping: a = ${a}, b = ${b}`)
+
+// 8. Check if a variable is undefined.
+// let myVar;
+// let helloo = "Hello World"
+// if (helloo === undefined) {
+//     console.log("Variable is undefined");
+// } else {
+//     console.log("Variable is defined");
+// }
 
 // 9. Declare a constant and try to reassign it.
 // const myConstant = 3.1416
