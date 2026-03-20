@@ -45,6 +45,11 @@
 // const myConstant = 3.1416
 
 
+// 10.Find the length of a string.
+let myString = "Hello, World!";
+let lengthOfString = myString.length;
+console.log(`Length of the string: ${lengthOfString}`)
+
 // 11.Check if a number is positive or negative.
 // const num = 5
 // if (num > 0) {
