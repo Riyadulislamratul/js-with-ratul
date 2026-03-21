@@ -46,9 +46,9 @@
 
 
 // 10.Find the length of a string.
-let myString = "Hello, World!";
-let lengthOfString = myString.length;
-console.log(`Length of the string: ${lengthOfString}`)
+// let myString = "Hello, World!";
+// let lengthOfString = myString.length;
+// console.log(`Length of the string: ${lengthOfString}`)
 
 // 11.Check if a number is positive or negative.
 // const num = 5
@@ -57,6 +57,14 @@ console.log(`Length of the string: ${lengthOfString}`)
 // } else {
 //     console.log("Negative Number")
 // }
+
+// 12.Check if a number is even or odd.
+const num = 7
+if (num % 2 === 0) {
+    console.log("Even Number")
+} else {
+    console.log("Odd Number")
+}
 
 // 13.Compare two numbers and print the larger one.
 // const num1 = 6
