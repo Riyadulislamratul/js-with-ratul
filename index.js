@@ -59,12 +59,12 @@
 // }
 
 // 12.Check if a number is even or odd.
-const num = 7
-if (num % 2 === 0) {
-    console.log("Even Number")
-} else {
-    console.log("Odd Number")
-}
+// const num = 7
+// if (num % 2 === 0) {
+//     console.log("Even Number")
+// } else {
+//     console.log("Odd Number")
+// }
 
 // 13.Compare two numbers and print the larger one.
 // const num1 = 6
@@ -88,6 +88,14 @@ if (num % 2 === 0) {
 //     console.log("Values are Strictly Equal");
 // } else {    console.log("Values are Not Strictly Equal");
 // }
+// 16.Check if a number is divisible by 5.
+const num = 10    
+if (num % 5 === 0) {
+    console.log("Number is Divisible by 5")
+} else {
+    console.log("Number is Not Divisible by 5")
+}
+
 
 // Loops
 // 21.Print numbers from 1 to 10.
