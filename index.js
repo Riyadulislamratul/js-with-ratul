@@ -89,12 +89,21 @@
 // } else {    console.log("Values are Not Strictly Equal");
 // }
 // 16.Check if a number is divisible by 5.
-const num = 10    
-if (num % 5 === 0) {
-    console.log("Number is Divisible by 5")
+// const num = 10    
+// if (num % 5 === 0) {
+//     console.log("Number is Divisible by 5")
+// } else {
+//     console.log("Number is Not Divisible by 5")
+// }
+
+// 17.Check if a number is divisible by both 3 and 5.
+const num = 15
+if (num % 3 === 0 && num % 5 === 0) {
+    console.log("Number is Divisible by both 3 and 5")
 } else {
-    console.log("Number is Not Divisible by 5")
-}
+    console.log("Number is Not Divisible by both 3 and 5")
+}    
+    
 
 
 // Loops
