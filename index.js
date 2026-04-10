@@ -97,13 +97,25 @@
 // }
 
 // 17.Check if a number is divisible by both 3 and 5.
-const num = 15
-if (num % 3 === 0 && num % 5 === 0) {
-    console.log("Number is Divisible by both 3 and 5")
-} else {
-    console.log("Number is Not Divisible by both 3 and 5")
-}    
+// const num = 15
+// if (num % 3 === 0 && num % 5 === 0) {
+//     console.log("Number is Divisible by both 3 and 5")
+// } else {
+//     console.log("Number is Not Divisible by both 3 and 5")
+// }    
     
+// 18.Find the largest of three numbers.
+const num1 = 10
+const num2 = 20
+const num3 = 30
+if (num1 > num2 && num1 > num3) {
+    console.log("Number one is Largest")
+} else if (num2 > num1 && num2 > num3) {
+    console.log("Number two is Largest")
+} else {
+    console.log("Number three is Largest")
+}
+
 
 
 // Loops
