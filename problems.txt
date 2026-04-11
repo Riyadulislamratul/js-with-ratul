@@ -17,7 +17,7 @@ Operators & Conditions
 15.Check if two values are equal using ===. ✅
 16.Check if a number is divisible by 5. ✅
 17.Check if a number is divisible by both 3 and 5. ✅
-18.Find the largest of three numbers.
+18.Find the largest of three numbers. ✅
 19.Check if a year is a leap year.
 20.Check if a number is between 10 and 50
 Loops

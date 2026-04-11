@@ -105,15 +105,23 @@
 // }    
     
 // 18.Find the largest of three numbers.
-const num1 = 10
-const num2 = 20
-const num3 = 30
-if (num1 > num2 && num1 > num3) {
-    console.log("Number one is Largest")
-} else if (num2 > num1 && num2 > num3) {
-    console.log("Number two is Largest")
+// const num1 = 10
+// const num2 = 20
+// const num3 = 30
+// if (num1 > num2 && num1 > num3) {
+//     console.log("Number one is Largest")
+// } else if (num2 > num1 && num2 > num3) {
+//     console.log("Number two is Largest")
+// } else {
+//     console.log("Number three is Largest")
+// }
+
+// 19.Check if a year is a leap year.
+const year = 2024
+if (year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0)) {
+    console.log("Leap Year")
 } else {
-    console.log("Number three is Largest")
+    console.log("Not a Leap Year")
 }
 
 
