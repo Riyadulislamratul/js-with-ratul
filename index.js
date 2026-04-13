@@ -117,11 +117,19 @@
 // }
 
 // 19.Check if a year is a leap year.
-const year = 2024
-if (year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0)) {
-    console.log("Leap Year")
+// const year = 2024
+// if (year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0)) {
+//     console.log("Leap Year")
+// } else {
+//     console.log("Not a Leap Year")
+// }
+
+// 20.Check if a number is between 10 and 50.
+const num = 25
+if (num > 10 && num < 50) {
+    console.log("Number is between 10 and 50")
 } else {
-    console.log("Not a Leap Year")
+    console.log("Number is Not between 10 and 50")
 }
 
 
