@@ -25,11 +25,11 @@ Loops
 22.Print even numbers from 1 to 20. ✅
 23.Print odd numbers from 1 to 20. ✅
 24.Print the multiplication table of 5. ✅
-25.Find the sum of numbers from 1 to 100.
-26.Find the factorial of a number.
-27.Reverse a number using a loop.
+25.Find the sum of numbers from 1 to 100. ✅
+26.Find the factorial of a number. ✅
+27.Reverse a number using a loop. ✅
 28.Count digits of a number.
-29.Print Fibonacci series up to n terms.
+29.Print Fibonacci series up to n terms. ✅
 30.Find the power of a number using a loop.
 Functions
 31.Create a function to add two numbers.

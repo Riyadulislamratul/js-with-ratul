@@ -125,12 +125,12 @@
 // }
 
 // 20.Check if a number is between 10 and 50.
-const num = 25
-if (num > 10 && num < 50) {
-    console.log("Number is between 10 and 50")
-} else {
-    console.log("Number is Not between 10 and 50")
-}
+// const num = 25
+// if (num > 10 && num < 50) {
+//     console.log("Number is between 10 and 50")
+// } else {
+//     console.log("Number is Not between 10 and 50")
+// }
 
 
 
@@ -165,6 +165,14 @@ if (num > 10 && num < 50) {
 //     sum += i
 // }
 // console.log(`The sum of numbers from 1 to 100 is: ${sum}`)
+
+// 26.Find the factorial of a number.
+let number = 5;
+let factorial = 1;
+for (let i = 1; i <= number; i++) {
+    factorial *= i;
+}
+console.log(`Factorial of ${number} is: ${factorial}`)
 
 
 // 27.Reverse a number using a loop.
