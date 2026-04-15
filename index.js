@@ -167,12 +167,12 @@
 // console.log(`The sum of numbers from 1 to 100 is: ${sum}`)
 
 // 26.Find the factorial of a number.
-let number = 5;
-let factorial = 1;
-for (let i = 1; i <= number; i++) {
-    factorial *= i;
-}
-console.log(`Factorial of ${number} is: ${factorial}`)
+// let number = 5;
+// let factorial = 1;
+// for (let i = 1; i <= number; i++) {
+//     factorial *= i;
+// }
+// console.log(`Factorial of ${number} is: ${factorial}`)
 
 
 // 27.Reverse a number using a loop.
@@ -185,6 +185,14 @@ console.log(`Factorial of ${number} is: ${factorial}`)
 // }
 // console.log(`Reversed Number: ${reversedNumber}`);
 
+// 28.Count digits of a number.
+let number = 12345;
+let count = 0;
+while (number > 0) {
+    number = Math.floor(number / 10);
+    count++;
+}
+console.log(`Number of digits: ${count}`);
 
 // 29.Print Fibonacci series up to n terms.
 // let n = 10;
