@@ -186,13 +186,13 @@
 // console.log(`Reversed Number: ${reversedNumber}`);
 
 // 28.Count digits of a number.
-let number = 12345;
-let count = 0;
-while (number > 0) {
-    number = Math.floor(number / 10);
-    count++;
-}
-console.log(`Number of digits: ${count}`);
+// let number = 12345;
+// let count = 0;
+// while (number > 0) {
+//     number = Math.floor(number / 10);
+//     count++;
+// }
+// console.log(`Number of digits: ${count}`);
 
 // 29.Print Fibonacci series up to n terms.
 // let n = 10;
@@ -205,3 +205,12 @@ console.log(`Number of digits: ${count}`);
 //     a = b;
 //     b = nextTerm;
 // }
+
+// 30.Find the power of a number using a loop. 
+// let base = 2;
+// let exponent = 5;
+// let result = 1;
+// for (let i = 1; i <= exponent; i++) {
+//     result *= base;
+// }
+// console.log(`${base} raised to the power of ${exponent} is: ${result}`);
