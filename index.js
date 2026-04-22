@@ -214,3 +214,9 @@
 //     result *= base;
 // }
 // console.log(`${base} raised to the power of ${exponent} is: ${result}`);
+function addNumbers(a, b) {
+    return a + b;
+}
+
+// Example
+console.log(addNumbers(3, 5)); // Output: 8
