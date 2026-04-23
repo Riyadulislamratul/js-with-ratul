@@ -220,3 +220,10 @@ function addNumbers(a, b) {
 
 // Example
 console.log(addNumbers(3, 5)); // Output: 8
+
+
+32.Create a function to subtract two numbers.
+
+function subtract(a, b) {
+    return a - b;
+}
