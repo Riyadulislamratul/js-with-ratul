@@ -227,3 +227,15 @@ console.log(addNumbers(3, 5)); // Output: 8
 function subtract(a, b) {
     return a - b;
 }
+
+
+51.Sort an array of numbers.
+let arr = [5, 2, 9, 1, 3];
+
+// Ascending
+arr.sort((a, b) => a - b);
+console.log(arr);
+
+// Descending
+arr.sort((a, b) => b - a);
+console.log(arr);
