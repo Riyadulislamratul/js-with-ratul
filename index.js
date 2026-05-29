@@ -239,3 +239,9 @@ console.log(arr);
 // Descending
 arr.sort((a, b) => b - a);
 console.log(arr);
+
+61.Reverse a string.
+
+const original = "hello";
+const reversed = original.split("").reverse().join("");
+console.log(reversed); // "olleh"
