@@ -245,3 +245,9 @@ console.log(arr);
 const original = "hello";
 const reversed = original.split("").reverse().join("");
 console.log(reversed); // "olleh"
+
+91.Get current date and time.
+
+let currentDateTime = new Date();
+
+console.log(currentDateTime);
