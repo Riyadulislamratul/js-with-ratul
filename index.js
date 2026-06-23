@@ -251,3 +251,9 @@ console.log(reversed); // "olleh"
 let currentDateTime = new Date();
 
 console.log(currentDateTime);
+
+
+
+100. Print “Hello World” in the console.
+
+console.log("Hello World");
