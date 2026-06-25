@@ -253,6 +253,12 @@ let currentDateTime = new Date();
 console.log(currentDateTime);
 
 
+92.Generate a random number.
+
+const randomNumber = Math.random();
+console.log(randomNumber);
+
+
 
 100. Print “Hello World” in the console.
 
