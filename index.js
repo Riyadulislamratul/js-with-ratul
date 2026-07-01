@@ -246,6 +246,34 @@ const original = "hello";
 const reversed = original.split("").reverse().join("");
 console.log(reversed); // "olleh"
 
+
+88.Change image source on button click.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change Image</title>
+</head>
+<body>
+
+    <img id="myImage" src="image1.jpg" alt="Image" width="300">
+
+    <br><br>
+
+    <button onclick="changeImage()">Change Image</button>
+
+    <script>
+        function changeImage() {
+            document.getElementById("myImage").src = "image2.jpg";
+        }
+    </script>
+
+</body>
+</html>
+
+
+
+
 91.Get current date and time.
 
 let currentDateTime = new Date();
