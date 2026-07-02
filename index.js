@@ -247,6 +247,17 @@ const reversed = original.split("").reverse().join("");
 console.log(reversed); // "olleh"
 
 
+
+80.Convert array to an object.
+
+const arr = ["Apple", "Banana", "Orange"];
+
+const obj = Object.assign({}, arr);
+
+console.log(obj);
+
+
+
 88.Change image source on button click.
 
 <!DOCTYPE html>
