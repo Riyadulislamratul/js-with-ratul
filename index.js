@@ -297,6 +297,18 @@ console.log(currentDateTime);
 const randomNumber = Math.random();
 console.log(randomNumber);
 
+96.Check if a variable is an array.
+
+
+let value = [1, 2, 3];
+
+if (Array.isArray(value)) {
+    console.log("It is an array.");
+} else {
+    console.log("It is not an array.");
+}
+
+
 
 
 100. Print “Hello World” in the console.
