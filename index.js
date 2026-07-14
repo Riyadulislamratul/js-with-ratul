@@ -248,6 +248,21 @@ console.log(reversed); // "olleh"
 
 
 
+71.Create an object with name, age, and city.
+
+
+const person = {
+  name: "Mohona",
+  age: 21,
+  city: "Dhaka"
+};
+
+console.log(person);
+
+
+
+
+
 80.Convert array to an object.
 
 const arr = ["Apple", "Banana", "Orange"];
