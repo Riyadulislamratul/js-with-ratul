@@ -262,6 +262,27 @@ console.log(person);
 
 
 
+75.Delete a property from an object.
+
+
+// Object
+const student = {
+  name: "Ratul",
+  age: 21,
+  department: "CSE"
+};
+
+console.log("Before deleting:");
+console.log(student);
+
+// Delete the age property
+delete student.age;
+
+console.log("After deleting:");
+console.log(student);
+
+
+
 
 80.Convert array to an object.
 
