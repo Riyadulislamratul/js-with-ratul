@@ -333,6 +333,23 @@ console.log(currentDateTime);
 const randomNumber = Math.random();
 console.log(randomNumber);
 
+
+
+95.Use setInterval() to print numbers.
+
+let count = 1;
+
+const interval = setInterval(() => {
+  console.log(count);
+  count++;
+
+  if (count > 10) {
+    clearInterval(interval); // Stop the interval
+  }
+}, 1000); // 1000 ms = 1 second
+
+
+
 96.Check if a variable is an array.
 
 
