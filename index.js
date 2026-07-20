@@ -319,6 +319,17 @@ console.log(obj);
 </html>
 
 
+89.Add a class to an element.
+
+<p id="text">Hello, World!</p>
+
+
+const element = document.getElementById("text");
+
+// Add a class
+element.classList.add("highlight");
+
+
 
 
 91.Get current date and time.
