@@ -240,6 +240,29 @@ console.log(arr);
 arr.sort((a, b) => b - a);
 console.log(arr);
 
+
+56.Remove duplicate elements from an array.
+
+
+function removeDuplicates(arr) {
+    for (let i = 0; i < arr.length; i++) {
+        for (let j = i + 1; j < arr.length; j++) {
+            if (arr[i] === arr[j]) {
+                arr.splice(j, 1);
+                j--;
+            }
+        }
+    }
+    return arr;
+}
+
+// Example
+let arr = [2, 4, 2, 5, 4, 6, 5];
+console.log(removeDuplicates(arr));
+
+
+
+
 61.Reverse a string.
 
 const original = "hello";
