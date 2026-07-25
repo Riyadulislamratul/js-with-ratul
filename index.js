@@ -396,6 +396,16 @@ if (Array.isArray(value)) {
 }
 
 
+97.Clone an array.
+
+
+let originalArray = [10, 20, 30, 40];
+
+let clonedArray = [...originalArray];
+
+console.log(clonedArray);
+
+
 
 
 100. Print “Hello World” in the console.
