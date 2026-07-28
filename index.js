@@ -283,6 +283,19 @@ const person = {
 console.log(person);
 
 
+72.Access object properties.
+
+const person = {
+  name: "Ratul",
+  age: 22,
+  city: "Dhaka"
+};
+
+console.log(person.name); // Ratul
+console.log(person.age);  // 22
+console.log(person.city); // Dhaka
+
+
 
 
 75.Delete a property from an object.
