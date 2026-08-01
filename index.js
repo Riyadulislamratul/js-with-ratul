@@ -261,6 +261,17 @@ let arr = [2, 4, 2, 5, 4, 6, 5];
 console.log(removeDuplicates(arr));
 
 
+60.Find the sum using reduce().
+
+const numbers = [10, 20, 30, 40, 50];
+
+const sum = numbers.reduce((accumulator, currentValue) => {
+  return accumulator + currentValue;
+}, 0);
+
+console.log(sum); // Output: 150
+
+
 
 
 61.Reverse a string.
