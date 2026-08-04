@@ -445,3 +445,7 @@ console.log(clonedArray);
 100. Print “Hello World” in the console.
 
 console.log("Hello World");
+
+
+
+Start learning JS 
