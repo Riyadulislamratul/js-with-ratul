@@ -238,6 +238,14 @@ console.log(numbers);
 
 
 
+46.Remove the last element of an array.
+
+let numbers = [10, 20, 30, 40, 50];
+
+numbers.pop();
+
+console.log(numbers);
+
 
 51.Sort an array of numbers.
 let arr = [5, 2, 9, 1, 3];
