@@ -236,6 +236,12 @@ let numbers = [10, 20, 30, 40, 50];
 
 console.log(numbers);
 
+44.Access the last element of an array.
+
+const arr = [10, 20, 30, 40, 50];
+
+console.log(arr[arr.length - 1]);
+
 
 
 46.Remove the last element of an array.
