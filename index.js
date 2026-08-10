@@ -236,6 +236,15 @@ let numbers = [10, 20, 30, 40, 50];
 
 console.log(numbers);
 
+
+43.Access the first element of an array.
+
+const fruits = ["Apple", "Banana", "Mango", "Orange"];
+
+console.log(fruits[0]);
+
+
+
 44.Access the last element of an array.
 
 const arr = [10, 20, 30, 40, 50];
