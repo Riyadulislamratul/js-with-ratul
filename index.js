@@ -274,6 +274,20 @@ arr.sort((a, b) => b - a);
 console.log(arr);
 
 
+55.Merge two arrays.
+
+
+let arr1 = [1, 2, 3];
+let arr2 = [4, 5, 6];
+
+let mergedArray = [...arr1, ...arr2];
+
+console.log(mergedArray);
+
+
+
+
+
 56.Remove duplicate elements from an array.
 
 
