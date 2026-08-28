@@ -237,6 +237,14 @@ let numbers = [10, 20, 30, 40, 50];
 console.log(numbers);
 
 
+42.Find the length of an array.
+
+let arr = [10, 20, 30, 40, 50];
+
+console.log(arr.length);
+
+
+
 43.Access the first element of an array.
 
 const fruits = ["Apple", "Banana", "Mango", "Orange"];
