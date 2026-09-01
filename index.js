@@ -230,6 +230,18 @@ function subtract(a, b) {
 
 
 
+33.Create a function to check if a number is even.
+
+function isEven(number) {
+  return number % 2 === 0;
+}
+
+console.log(isEven(10)); // true
+console.log(isEven(7));  // false
+
+
+
+
 41.Create an array of numbers.
 
 let numbers = [10, 20, 30, 40, 50];
