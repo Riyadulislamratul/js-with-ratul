@@ -242,6 +242,18 @@ console.log(isEven(7));  // false
 
 
 
+35.Create a function to convert Celsius to Fahrenheit.
+
+
+function celsiusToFahrenheit(celsius) {
+  return (celsius * 9 / 5) + 32;
+}
+
+console.log(celsiusToFahrenheit(25));
+
+
+
+
 41.Create an array of numbers.
 
 let numbers = [10, 20, 30, 40, 50];
