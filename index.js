@@ -222,6 +222,20 @@ function addNumbers(a, b) {
 console.log(addNumbers(3, 5)); // Output: 8
 
 
+
+31.Create a function to add two numbers.
+
+
+
+function add(a, b) {
+  return a + b;
+}
+
+console.log(add(5, 3)); // 8
+
+
+
+
 32.Create a function to subtract two numbers.
 
 function subtract(a, b) {
