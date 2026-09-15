@@ -308,6 +308,19 @@ numbers.pop();
 console.log(numbers);
 
 
+
+
+48.Remove the first element of an array.
+
+
+let arr = [10, 20, 30, 40];
+
+arr.shift();
+
+console.log(arr);
+
+
+
 51.Sort an array of numbers.
 let arr = [5, 2, 9, 1, 3];
 
