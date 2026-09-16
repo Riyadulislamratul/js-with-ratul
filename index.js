@@ -268,6 +268,20 @@ console.log(celsiusToFahrenheit(25));
 
 
 
+36.Create a function to convert Fahrenheit to Celsius.
+
+
+function fahrenheitToCelsius(fahrenheit) {
+  return (fahrenheit - 32) * 5 / 9;
+}
+
+console.log(fahrenheitToCelsius(98.6)); // 37
+console.log(fahrenheitToCelsius(32));   // 0
+
+
+
+
+
 41.Create an array of numbers.
 
 let numbers = [10, 20, 30, 40, 50];
