@@ -255,6 +255,18 @@ console.log(isEven(7));  // false
 
 
 
+34.Create a function to find the square of a number.
+
+
+function square(number) {
+    return number * number;
+}
+
+console.log(square(5)); // 25
+console.log(square(10)); // 100
+
+
+
 
 35.Create a function to convert Celsius to Fahrenheit.
 
