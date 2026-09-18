@@ -292,6 +292,22 @@ console.log(fahrenheitToCelsius(32));   // 0
 
 
 
+37.Create a function to find the maximum of two numbers.
+
+
+
+function findMax(a, b) {
+    if (a > b) {
+        return a;
+    } else {
+        return b;
+    }
+}
+
+console.log(findMax(10, 20)); // 20
+
+
+
 
 
 41.Create an array of numbers.
